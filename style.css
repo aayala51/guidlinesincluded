@@ -1,0 +1,111 @@
+img {
+    border-radius: 100%;
+
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding-top: 2%;
+}
+
+#profilepic {
+    width: 20%;
+}
+
+#navbar {
+    background: url('composition-book.jpg');
+    min-height: 190px;
+    background-size: cover;
+}
+
+.black-text {
+    color: black;
+    background-color: red;
+}
+
+#grid {
+    display: grid;
+    grid-gap: 8px;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 10%;
+}
+
+.advice {
+    padding-top: 10%;
+    font-family: 'Handlee', cursive
+    background-image: url(https://static2.jetpens.com/images/a/000/061/61265.jpg?q=90&s=f8561b68991baf4f929fc2cff0869d99);
+}
+
+.other {
+    padding-top: 8%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+    font-family: 'Coustard', serif;
+    background-image: url(https://static2.jetpens.com/images/a/000/061/61265.jpg?q=90&s=f8561b68991baf4f929fc2cff0869d99);
+}
+
+.team {
+    text-align: center;
+    font-family: 'Alice', serif;
+    box-shadow: 10px 10px 10px;
+}
+
+#members {
+    padding-top: 5%;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 5%;
+    font-family: 'Cabin Sketch', cursive;
+    background-image: url(https://static2.jetpens.com/images/a/000/061/61265.jpg?q=90&s=f8561b68991baf4f929fc2cff0869d99);
+    color: #C11711;
+}
+
+ul {
+    font-size: 25px;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color: #C11711;
+}
+
+.howto{
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    background-image:url(https://static2.jetpens.com/images/a/000/061/61265.jpg?q=90&s=f8561b68991baf4f929fc2cff0869d99);
+    line-height: 130%
+}
+#money{
+    color:#0F7B08;
+}
+
+h3 {
+    font-size:30px;
+    background-image:url(https://static2.jetpens.com/images/a/000/061/61265.jpg?q=90&s=f8561b68991baf4f929fc2cff0869d99);
+}
+#social{
+    color:#FF516A;
+}
+#mental{
+    color:#101E9A;
+}
+#personal{
+    color:#DE0000;
+}
+#home{
+    color:#990031;
+}
+#school{
+    color:#F14512;
+}
+.white-text{
+    color:white;
+    background-color:red;
+}
